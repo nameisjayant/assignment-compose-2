@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">compose</string>
+    <string name="cricket">Cricket</string>
+    <string name="football">Football</string>
+    <string name="adding_soon">Adding Soon</string>
+    <string name="formula_1">Formula 1</string>
+    <string name="live">LIVE</string>
+    <string name="live_matches">Live Matches</string>
+    <string name="vs">VS</string>
+    <string name="most_happening_tickr">🔥 Most Happening Tickr</string>
+    <string name="bet_now">BET NOW</string>
+    <string name="rapid_fire">🔥 Rapid Fire</string>
+    <string name="_5_questions">5 Questions</string>
+    <string name="will_leeds_lead_at_half_time">1. Will Leeds lead at half-time?</string>
+    <string name="_50_coins">50 Coins</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="skip">SKIP</string>
+    <string name="betta_coins_are_your_besties_which_get_you_rewards">Betta coins are your besties\nwhich get you rewards</string>
+    <string name="explore_rewards">EXPLORE REWARDS</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="write">Write</string>
+    <string name="like">Like</string>
+    <string name="account">Account</string>
+</resources>
